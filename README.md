@@ -9,7 +9,7 @@ All grounds and mounting holes are linked but no connection is make to any power
 
 This board was designed in of [EasyEDA](https://easyeda.com/).
 
-TODO: Add photo
+![board-photo.png](board-photo.png)
 
 Manufacturing
 -------------
