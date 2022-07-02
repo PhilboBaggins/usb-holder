@@ -11,6 +11,14 @@ This board was designed in of [EasyEDA](https://easyeda.com/).
 
 TODO: Add photo
 
+Manufacturing
+-------------
+
+1. Send [gerber files](Exports-v1.0/Gerbers/) to a PCB manufacturer, e.g. [JLC PCB](https://jlcpcb.com/)
+2. Solder USB connectors ... or just glue them on
+3. Label the connectors (optional)
+4. Mount it somewhere (e.g. a wall)
+
 Licence
 -------
 
