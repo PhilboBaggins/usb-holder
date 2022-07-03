@@ -18,6 +18,7 @@ Manufacturing
 2. Solder USB connectors ... or just glue them on
 3. Label the connectors (optional)
 4. Mount it somewhere (e.g. a wall)
+5. Stick USB things in it
 
 Licence
 -------
