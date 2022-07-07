@@ -1,7 +1,7 @@
 USB Holder
 ==========
 
-A wall moutable USB organiser.
+A wall mountable USB organiser.
 
 Want to tidy up your desk or see at a glance which USB devices you've misplaced? Mount this board on a wall, plug in some USB (flash drives, cables, etc), label the connectors if you want...
 
