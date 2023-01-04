@@ -4,7 +4,7 @@
   "name": "USB holder",
   "content": "",
   "created_at": "2022-07-02 23:26:07",
-  "updated_at": "2022-07-02 23:53:46",
+  "updated_at": "2022-09-26 17:30:11",
   "stick": "",
   "documents": [
     {
@@ -12,11 +12,11 @@
       "title": "Sheet_1",
       "description": "",
       "docType": "1",
-      "master": "e6efe2f4734c2bad56d60cd82323304f",
+      "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "917e098b71c5410b898be352fdfd887b": 10,
-        "a1e73d3b04ef48e5bb826c9ff0b7c9e5": 2
+        "a1e73d3b04ef48e5bb826c9ff0b7c9e5": 2,
+        "64a0b846763e44028de64c54feff5673": 10
       },
       "BOM": [
         [
@@ -27,25 +27,26 @@
           "CustomPara"
         ],
         [
-          "JTJ-USB-AF-08",
+          "906-461A1022D10200",
           10,
-          "USB-A-TH__USB-AF-90",
+          "USB-A-TH_USB-M-4-F",
           "USB1,USB2,USB3,USB4,USB5,USB6,USB7,USB8,USB9,USB10",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Manufacturer Part": "JTJ-USB-AF-08",
-            "BOM_Supplier Part": "C2345",
+            "BOM_Supplier Part": "C42675",
+            "BOM_Manufacturer": "Jing Extension of the Electronic Co.",
+            "BOM_Manufacturer Part": "906-461A1022D10200",
             "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "80a0cb9b1cd54c16b5a4ac0db196e9e6",
-            "uuid": "917e098b71c5410b898be352fdfd887b"
+            "puuid": "15fd1e4c763b4c29b207f068dd6a142a",
+            "uuid": "64a0b846763e44028de64c54feff5673"
           }
         ]
       ],
-      "updateTime": 1656770026,
+      "updateTime": 1664177117,
       "createTime": 1656768368,
       "histories": [],
       "created_at": "2022-07-02 23:26:08",
-      "updated_at": "2022-07-02 23:53:46"
+      "updated_at": "2022-09-26 17:25:17"
     },
     {
       "uuid": "0dda9aab7ff2e33455ee998316f5fc73",
@@ -57,20 +58,20 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "80a0cb9b1cd54c16b5a4ac0db196e9e6": 10,
+        "15fd1e4c763b4c29b207f068dd6a142a": 10,
         "da0dcc5256b84adaa013e18d4690d5d1": 2
       },
       "BOM": [],
-      "updateTime": 1656769856,
+      "updateTime": 1664177411,
       "createTime": 1656768636,
       "histories": [],
       "created_at": "2022-07-02 23:30:36",
-      "updated_at": "2022-07-02 23:50:56"
+      "updated_at": "2022-09-26 17:30:11"
     }
   ],
   "sort": [],
   "title": "USB holder",
   "foldername": "USB holder",
   "schfilename": "USB holder.json",
-  "schfilemtime": 1656770026986
+  "schfilemtime": 1664177117773
 }
