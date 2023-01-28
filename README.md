@@ -7,8 +7,6 @@ Want to tidy up your desk or see at a glance which USB devices you've misplaced?
 
 All grounds and mounting holes are linked but no connection is make to any power or data pins.
 
-This board was designed in of [EasyEDA](https://easyeda.com/).
-
 ![board-photo.png](board-photo.png)
 
 Manufacturing
