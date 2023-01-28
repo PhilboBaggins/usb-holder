@@ -1,2 +1,2 @@
-ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-"1"	"JTJ-USB-AF-08"	"USB1,USB2,USB3,USB4,USB5,USB6,USB7,USB8,USB9,USB10"	"USB-A-TH__USB-AF-90"	"10"	"JTJ-USB-AF-08"	""	"LCSC"	"C2345"	"0.042"
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
+1,JTJ-USB-AF-08,"USB1,USB2,USB3,USB4,USB5,USB6,USB7,USB8,USB9,USB10",USB-A-TH__USB-AF-90,10,JTJ-USB-AF-08,,LCSC,C2345,0.042

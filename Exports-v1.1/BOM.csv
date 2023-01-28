@@ -1,2 +1,2 @@
-ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-"1"	"906-461A1022D10200"	"USB1,USB2,USB3,USB4,USB5,USB6,USB7,USB8,USB9,USB10"	"USB-A-TH_USB-M-4-F"	"10"	"906-461A1022D10200"	"Jing Extension of the Electronic Co."	"LCSC"	"C42675"	"0.068"
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
+1,906-461A1022D10200,"USB1,USB2,USB3,USB4,USB5,USB6,USB7,USB8,USB9,USB10",USB-A-TH_USB-M-4-F,10,906-461A1022D10200,Jing Extension of the Electronic Co.,LCSC,C42675,0.068
