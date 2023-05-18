@@ -5,9 +5,14 @@ A wall mountable USB organiser.
 
 Want to tidy up your desk or see at a glance which USB devices you've misplaced? Mount this board on a wall, plug in some USB (flash drives, cables, etc), label the connectors if you want...
 
-All grounds and mounting holes are linked but no connection is make to any power or data pins.
+All grounds and mounting holes are electrically linked but no connection is make to any power or data pins.
 
-![board-photo.png](board-photo.png)
+![board-photo.png](board-photo.jpg)
+
+The photo above shows:
+
+* a v1.0 board on the left with 5 USB cables plugged into it
+* a v1.1 board on the right with 2 USB flash drives plugged into it
 
 Manufacturing
 -------------
